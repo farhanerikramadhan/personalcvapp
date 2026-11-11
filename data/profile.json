@@ -1,0 +1,22 @@
+{
+  "nama": "Farhan Erik Ramadhan",
+  "nama_panggilan": "Farhan",
+  "nim": "242505014",
+  "program_studi": "Sistem Informasi",
+  "fakultas": "Fakultas Teknologi Informasi",
+  "universitas": "MaSoem University",
+  "semester": 5,
+  "mata_kuliah": "Pemrograman Mobile",
+  "asal_sekolah": "SMA Pasundan Rancakekek",
+  "jurusan_sekolah": "IPS",
+  "email": "farhanerikramadhan087@gmail.com",
+  "telepon": "089524538184",
+  "lokasi": "Jl. Bakung 3 No 26, Rancaekek Kencana, Rancaekek",
+  "deskripsi": "Mahasiswa Sistem Informasi semester 5 di MaSoem University yang sedang mendalami pemrograman mobile. Berasal dari SMA Pasundan Rancakekek jurusan IPS, kini menekuni dunia teknologi dengan semangat belajar yang tinggi.",
+  "tagline": "Dari IPS ke IT — belajar tanpa batas.",
+  "tahun_masuk": 2024,
+  "hobi": ["Coding", "Desain UI", "Belajar hal baru"],
+  "status": "Aktif",
+  "github": "https://github.com/farhanerik",
+  "linkedin": "https://linkedin.com/in/farhanerik"
+}

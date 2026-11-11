@@ -1,0 +1,10 @@
+[
+  { "id": "skill-1", "nama": "React Native", "level": 70, "kategori": "Mobile" },
+  { "id": "skill-2", "nama": "JavaScript", "level": 75, "kategori": "Programming" },
+  { "id": "skill-3", "nama": "HTML & CSS", "level": 80, "kategori": "Web" },
+  { "id": "skill-4", "nama": "UI/UX Design", "level": 65, "kategori": "Design" },
+  { "id": "skill-5", "nama": "MySQL", "level": 60, "kategori": "Database" },
+  { "id": "skill-6", "nama": "Git & GitHub", "level": 70, "kategori": "Tools" },
+  { "id": "skill-7", "nama": "Microsoft Office", "level": 85, "kategori": "Produktivitas" },
+  { "id": "skill-8", "nama": "Public Speaking", "level": 75, "kategori": "Soft Skill" }
+]

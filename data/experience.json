@@ -1,0 +1,23 @@
+[
+  {
+    "tahun": "2024 - Sekarang",
+    "posisi": "Mahasiswa Sistem Informasi",
+    "tempat": "MaSoem University",
+    "deskripsi": "Menempuh semester 4, fokus pada pemrograman mobile dan pengembangan aplikasi.",
+    "tipe": "pendidikan"
+  },
+  {
+    "tahun": "2021 - 2024",
+    "posisi": "Siswa Jurusan IPS",
+    "tempat": "SMA Pasundan Rancakekek",
+    "deskripsi": "Menempuh pendidikan menengah atas dengan jurusan Ilmu Pengetahuan Sosial.",
+    "tipe": "pendidikan"
+  },
+  {
+    "tahun": "2025",
+    "posisi": "Project Pemrograman Mobile",
+    "tempat": "MaSoem University",
+    "deskripsi": "Mengembangkan aplikasi Personal CV berbasis React Native sebagai tugas mata kuliah Pemrograman Mobile.",
+    "tipe": "proyek"
+  }
+]

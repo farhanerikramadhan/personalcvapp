@@ -1,0 +1,52 @@
+[
+  {
+    "judul": "Personal CV App",
+    "deskripsi": "Aplikasi CV pribadi berbasis React Native dengan tema modern, animasi halus, navigasi tab, dan progress ring. Dibuat sebagai tugas mata kuliah Pemrograman Mobile.",
+    "teknologi": ["React Native", "Expo", "React Navigation", "react-native-svg"],
+    "tahun": 2025,
+    "status": "Selesai",
+    "kategori": "Mobile",
+    "link": "",
+    "highlight": true
+  },
+  {
+    "judul": "Company Profile Website",
+    "deskripsi": "Website profil perusahaan dengan halaman home, about, services, dan contact. Responsif di desktop dan mobile, dilengkapi form kontak.",
+    "teknologi": ["HTML", "CSS", "JavaScript", "Bootstrap"],
+    "tahun": 2025,
+    "status": "Selesai",
+    "kategori": "Web",
+    "link": "",
+    "highlight": false
+  },
+  {
+    "judul": "Website Inventaris",
+    "deskripsi": "Sistem manajemen inventaris barang dengan fitur CRUD, pencarian, filter kategori, dan laporan stok. Dibuat untuk latihan pengelolaan data.",
+    "teknologi": ["PHP", "MySQL", "Bootstrap", "JavaScript"],
+    "tahun": 2024,
+    "status": "Selesai",
+    "kategori": "Web",
+    "link": "",
+    "highlight": false
+  },
+  {
+    "judul": "Aplikasi Kalkulator",
+    "deskripsi": "Kalkulator dengan operasi dasar (tambah, kurang, kali, bagi) dan tampilan minimalis. Dibuat sebagai latihan pertama belajar state management.",
+    "teknologi": ["React Native", "JavaScript"],
+    "tahun": 2024,
+    "status": "Selesai",
+    "kategori": "Mobile",
+    "link": "",
+    "highlight": false
+  },
+  {
+    "judul": "Website CV Online",
+    "deskripsi": "Website CV pribadi versi web — halaman profil, riwayat pendidikan, skill, dan portofolio. Menjadi langkah awal sebelum membuat versi mobile.",
+    "teknologi": ["HTML", "CSS", "JavaScript"],
+    "tahun": 2024,
+    "status": "Selesai",
+    "kategori": "Web",
+    "link": "",
+    "highlight": false
+  }
+]

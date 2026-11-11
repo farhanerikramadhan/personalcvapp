@@ -1,0 +1,21 @@
+{
+  "academic": {
+    "identitas": {
+      "nama": "Farhan Erik Ramadhan",
+      "nim": "242505014",
+      "mk": "Pemrograman Mobile 2",
+      "dosen": "Iin, M.Kom"
+    },
+    "currentScore": {
+      "nilai": 89,
+      "grade": "A",
+      "totalLP": 12375
+    },
+    "learningProgress": [
+      { "id": 1, "label": "Attendance", "persen": 100 },
+      { "id": 2, "label": "Practice", "persen": 87 },
+      { "id": 3, "label": "Quest", "persen": 95 },
+      { "id": 4, "label": "Challenge", "persen": 100 }
+    ]
+  }
+}
